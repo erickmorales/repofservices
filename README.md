@@ -5,7 +5,7 @@ Desarrollo de Backend y Login App Small Library --- El contenido del README deta
 
 Hola buen dia.
 
-He desarrollado las siguientes funcionalidades:
+He desarrollado las siguientes funcionalidades, las cuales cada una de ellas se han probado y validado su funcionamiento con Postman:
 
 Backend:
 
