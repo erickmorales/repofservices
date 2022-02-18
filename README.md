@@ -3,7 +3,9 @@
 
 Desarrollo de Backend y Login App Small Library --- El contenido del README detalla lo desarrollado hasta el momento
 
-Hola buen dia.
+- Datos de Login:
+     - usuario: admin
+     - password: admin
 
 He desarrollado las siguientes funcionalidades, las cuales cada una de ellas se han probado y validado su funcionamiento con Postman:
 
