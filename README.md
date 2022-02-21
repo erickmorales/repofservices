@@ -2,7 +2,8 @@
  Erick Benítez
 
 Desarrollo de Backend y Login App Small Library --- El contenido del README detalla lo desarrollado hasta el momento
-
+--Backend con C# .net y para la Base de Datos con Code First Entitity Framework. 
+--Frontend: Angular, PrimeNg
 - Datos de Login:
      - usuario: admin
      - password: admin
